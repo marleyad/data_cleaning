@@ -7,7 +7,7 @@ This project analyzes data from the **2017 Halloween Candy Hierarchy survey**, w
 The dataset was collected through an open-ended survey where participants rated candies as **JOY (loved it), MEH (indifferent), or DESPAIR (disliked it)**. It also includes additional demographic information such as **age and trick-or-treating participation**.
  
 ## 🎯 Objectives
-- **Clean and preprocess the dataset** (fix inconsistencies, remove unwanted characters, handle missing data).
+- **Clean and preprocess the dataset** (fix inconsistencies, remove unwanted characters, handle missing data). 
 - **Analyze demographic trends** related to trick-or-treating and age distribution.
 - **Explore sentiment analysis** on different candies.
 - **Visualize findings** using data plots and tables.
