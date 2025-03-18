@@ -12,7 +12,7 @@ The dataset was collected through an open-ended survey where participants rated 
 - **Explore sentiment analysis** on different candies.
 - **Visualize findings** using data plots and tables.
 
-## 🛠️ Technologies & Skills Used
+## 🛠️ Technologies & Skills Used 
 - **Python** for scripting and analysis
 - **Pandas & NumPy** for data manipulation and preprocessing
 - **Data Cleaning Techniques** (handling missing values, renaming columns, fixing text inconsistencies)
