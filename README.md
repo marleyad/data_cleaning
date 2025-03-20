@@ -17,7 +17,7 @@ The dataset was collected through an open-ended survey where participants rated 
 - **Pandas & NumPy** for data manipulation and preprocessing
 - **Data Cleaning Techniques** (handling missing values, renaming columns, fixing text inconsistencies)
 - **Sentiment Analysis** using categorical survey responses
-
+ 
 ## 📈 Results & Insights
 - Most loved and disliked candies based on survey responses.
 - Relationship between age and trick-or-treating participation.
