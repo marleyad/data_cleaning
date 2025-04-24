@@ -11,7 +11,7 @@ The dataset was collected through an open-ended survey where participants rated 
 - **Analyze demographic trends** related to trick-or-treating and age distribution.
 - **Explore sentiment analysis** on different candies.
 - **Visualize findings** using data plots and tables.
-
+ 
 ## 🛠️ Technologies & Skills Used 
 - **Python** for scripting and analysis
 - **Pandas & NumPy** for data manipulation and preprocessing
