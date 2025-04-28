@@ -8,7 +8,7 @@ The dataset was collected through an open-ended survey where participants rated 
   
 ## 🎯 Objectives 
 - **Clean and preprocess the dataset** (fix inconsistencies, remove unwanted characters, handle missing data). 
-- **Analyze demographic trends** related to trick-or-treating and age distribution.
+- **Analyze demographic trends** related to trick-or-treating and age distribution. 
 - **Explore sentiment analysis** on different candies.
 - **Visualize findings** using data plots and tables.
  
