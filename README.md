@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project analyzes data from the **2017 Halloween Candy Hierarchy survey**, where respondents rated various types of candy based on their preferences. The dataset contains messy real-world data with inconsistencies, requiring significant data cleaning and transformation. The goal of this project is to explore candy preferences and demographic patterns through data manipulation and visualization.
 
-## 📊 Dataset 
+## 📊 Dataset   
 The dataset was collected through an open-ended survey where participants rated candies as **JOY (loved it), MEH (indifferent), or DESPAIR (disliked it)**. It also includes additional demographic information such as **age and trick-or-treating participation**.
   
 ## 🎯 Objectives 
